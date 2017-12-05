@@ -1,0 +1,14 @@
+{
+  "name": "epicbot",
+  "version": "0.0.1",
+  "description": "EpicGamer's Bot For His Awesome Server By nextonix",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nextonix#7582",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
